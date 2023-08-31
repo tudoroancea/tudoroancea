@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭🚗 I am interested in numerical computing, optimal control, robotics, machine learning, data science, and their applications to fields like autonomous driving. 
+🔭🚗 I am interested in numerical computing, optimal control, robotics, machine learning, data science, and their applications to fields like autonomous driving.  
 🏁🏎️ I have spent two years working for the [EPFL Racing Team Driverless](https://github.com/EPFL-RT-Driverless) and implemented optimization-based nonlinear control and estimation algorithms.
 
 
