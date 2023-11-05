@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 🚗 I am interested in numerical computing, optimal control, robotics, machine learning, data science, and their applications to fields like autonomous driving and aerospace.  
-🏁 🏎️ I have spent two years working for the [EPFL Racing Team Driverless](https://github.com/EPFL-RT-Driverless) and implemented optimization-based nonlinear control and estimation algorithms.
+🏁 🏎️ I have spent two years working for the [EPFL Racing Team Driverless](https://github.com/EPFL-RT-Driverless) and implemented optimization-based nonlinear control and estimation algorithms.  
 🚀 🧑‍🚀 I am currently working for the [Gruyere Space Program](https://www.gruyerespaceprogram.ch/) and developing optimal-control-based safety certifications for GNC algorithms.
 
 # 💻 Tech Stack:
